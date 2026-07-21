@@ -7,4 +7,3 @@ __pycache__/
 # Instructor-only materials — kept local, NOT published to the repo
 PRACTICE_QUIZ.md
 MAD_ClassTest2_Prep_Slides.pptx
-build_slides.py
